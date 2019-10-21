@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
         });
         updateQuestion();
     }
-
+//j
     private void updateQuestion() {
         int question = mQuestionBank[mCurrentIndex].getTextResId();
         mQuestionTextView.setText(question);

@@ -11,7 +11,7 @@ public class Question {
     public void setTextResId(int textResId) {
         mTextResId = textResId;
     }
-
+//j
     public boolean isAnswerTrue() {
         return mAnswerTrue;
     }
